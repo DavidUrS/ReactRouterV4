@@ -1,7 +1,8 @@
 import React from 'react';
 import './Home.css';
 
-const Home = ()=>{
+const Home = (props)=>{
+   
     return(
         <div className='Home'>
             <p>Home works</p>
